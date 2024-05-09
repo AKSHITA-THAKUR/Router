@@ -1,0 +1,19 @@
+.greeting-card {
+    max-width: 400px; 
+    border: 1px solid #ccc; 
+    padding : 20px; 
+    border-radius: 10px; 
+    background-color: #f9f9f9; 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+    margin: 20px auto; 
+  }
+  
+  .greeting-card h2 {
+    color: #333; 
+  }
+  
+  .greeting-card p {
+    color: #555; 
+  }
+  
